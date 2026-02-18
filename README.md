@@ -1,6 +1,8 @@
 # Tiny-llama-text-summarizer
 A lightweight text summarization tool using TinyLlama (1.1B Chat) with Hugging Face Transformers and PyTorch.
 
+NOTE: Sometimes the output file does not display the code or shows an error such as "Invalid Notebook." To see the output, please refer to the file **Reference Images**, and for the code, use the file **TinyLlama Text Summarizer without Output**.
+
 
 # TinyLlama Text Summarizer
 
